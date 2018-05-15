@@ -1,4 +1,8 @@
+
 # 吃掉TOEFL大魔王
+
+GRE的姊妹篇lol Toefl的一些资料~ 祝小可爱和大佬们早日和Toefl大魔王分手(o゜▽゜)o☆
+如果想了解我的英语学习背景/GRE学习方法，请戳： https://github.com/laylalaisy/GRE_laylalaisy
 
 ## 前言
 1. 本repository的内容不能用作任何商业用途或任何形式的转载
@@ -6,6 +10,8 @@
 2. 如果本reposirory的内容侵犯了版权等都请联系我，我将及时删除
 
 3. 有任何疑问欢迎采用issues告诉我，有任何补充请pull request 笔芯~
+
+4. 羞耻的说，欢迎给我小星星哦♥
 
 ## 一、快速食用该项目
 ### 1. 食用人群
