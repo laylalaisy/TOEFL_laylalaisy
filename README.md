@@ -22,11 +22,11 @@ GRE的姊妹篇lol Toefl的一些资料~ 祝小可爱和大佬们早日和Toefl�
 如果你是长线选手，请再从“托福全部资料”文件夹根据自己情况选择
 ### 3. 推荐辅食
 （没有收广告费，都是亲测）
-1. 考满分All In One课程，其中推荐写作 阿武 老师！！
+1. 考满分All In One课程，其中推荐写作 阿武 老师！！ http://kmf.com/
 
 2. 考前推荐All In One点题班
 
-3. 小站的TPO在线系统（不要用下载的软件！）
+3. 小站的TPO在线系统（不要用下载的软件！） http://top.zhan.com/toefl/simulate/alltpo.html
 
 4. APP 托福单词中的学科单词系列
 ### 4. 彩蛋
