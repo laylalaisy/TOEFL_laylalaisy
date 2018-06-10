@@ -137,8 +137,13 @@ SO，总结一下我认为如果自制力好的，完全可以：
 4. 照着计划走，不要拖延症，不要嘴炮！每个星期feedback一下，及时调整计划/向专业人士求助 
 
 
-## 四、计划
+## 四、计划了
 我当时的计划是都写在一张纸上（感觉好神圣哈哈哈哈，回头找找看还在不在 
+
+--update-- 竟然找到了无比中二的拼错Toefl的计划
+
+![plan1](https://github.com/laylalaisy/TOEFL_laylalaisy/commits/master/三周备考请点这里/plan/plan1.jpg )  
+![plan2](https://github.com/laylalaisy/TOEFL_laylalaisy/commits/master/三周备考请点这里/plan/plan2.jpg)  
 
 大致情况是一共三周备考 我8.25考完GRE 9.17考的托福...         
 
