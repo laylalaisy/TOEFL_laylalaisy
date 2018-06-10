@@ -142,8 +142,8 @@ SO，总结一下我认为如果自制力好的，完全可以：
 
 --update-- 竟然找到了无比中二的拼错Toefl的计划
 
-![plan1](https://github.com/laylalaisy/TOEFL_laylalaisy/commits/master/三周备考请点这里/plan/plan1.jpg )  
-![plan2](https://github.com/laylalaisy/TOEFL_laylalaisy/commits/master/三周备考请点这里/plan/plan2.jpg)  
+![plan1](三周备考请点这里/plan/plan1.jpg )  
+![plan2](三周备考请点这里/plan/plan2.jpg)  
 
 大致情况是一共三周备考 我8.25考完GRE 9.17考的托福...         
 
